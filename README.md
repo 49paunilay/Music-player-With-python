@@ -2,4 +2,4 @@
 Music Player built with python
 
 
-[![SC2 Video](doc/SC2_youtube.gif)](https://youtu.be/682cObOlYYc)
+[![SC2 Video](doc/SC2_youtube.gif)](https://youtu.be/682cObOlYYc "SC2 Mini game - Click to Watch!")
